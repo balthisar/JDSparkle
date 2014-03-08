@@ -18,7 +18,7 @@
 App::uses('AppModel', 'Model');
 
 
-/** This class represents the interface to post authors. */
+/** This class represents the interface to reports. */
 class JDSparkleReport extends AppModel
 {
 	/* You shouldn't have to change any of these */

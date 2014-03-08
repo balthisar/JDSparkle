@@ -18,7 +18,7 @@
 App::uses('AppModel', 'Model');
 
 
-/** This class represents the interface to post authors. */
+/** This class represents the interface to records. */
 class JDSparkleRecord extends AppModel
 {
 	public $useTable = 'records';           ///< Database table this model uses.
